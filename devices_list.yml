@@ -1,0 +1,26 @@
+--- 
+devices: 
+  - 
+    hostname: FDM_DEVICE
+    ipaddr: "192.168.100.1"
+    password: Cisco123
+    port: 443
+    type: FTD
+    username: admin
+    version: 6.4
+  - 
+    hostname: FDM_DEVICE2
+    ipaddr: "192.168.100.2"
+    password: Cisco123
+    port: 443
+    type: FTD
+    username: admin
+    version: 6.5
+  - 
+    hostname: ASA_DEVICE3
+    ipaddr: "192.168.100.3"
+    password: Cisco123
+    port: 443
+    type: ASA
+    username: admin
+    version: 4
